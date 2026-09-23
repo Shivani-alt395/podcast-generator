@@ -1,6 +1,6 @@
-name: "Podcast Generator"
+name: "Shivani Podcast Generator"
 author: "Shivani"
-descripttion: "Generate a feed for a podcast from a YAML file"
+descripttion: "Generates a podcast RSS feed from a YAML configuration file."
 runs:
   using: "docker"
   image: "Dockerfile"
